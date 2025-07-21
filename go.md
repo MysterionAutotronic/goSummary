@@ -1,4 +1,12 @@
-<!-- TOC -->
+<!--toc-->
+<!--toc-depth=2-->
+
+# Access Control
+
+- handled by capitalization
+- **capital** means **public**
+- **non-capital** means **private**
+- applies to `var`, `const`, `struct`, methods, `function`, etc.
 
 # Structure
 ## Package
